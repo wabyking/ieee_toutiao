@@ -1,6 +1,3 @@
-# ieee_toutiao
-the basic code for 0.46
-
 
 
 2016Byte Cup国际机器学习竞赛
